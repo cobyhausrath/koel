@@ -255,7 +255,7 @@ export const playback = {
       return
     }
 
-    this.play(next)
+    //this.play(next)
   },
 
   /**
